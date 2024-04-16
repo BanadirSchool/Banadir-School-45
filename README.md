@@ -16,16 +16,16 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td>86 
+                        <td> B+
                         <td> COMPUTER</td>
                     </td>
            
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> Lama Hayo 
-                        <td>Z
+                    <td> 75 
+                        <td>C+
                     </td>
                     <td> COMPUTER
                     </td>
